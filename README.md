@@ -297,6 +297,20 @@ The project demonstrates practical skills in Python, exploratory data analysis, 
 ## Model Comparison
 
 ![Model Comparison](model-comparison.png)
+
+## Key Results
+
+- **Best Performing Model:** Gradient Boosting Classifier
+- **Test Accuracy:** 94.17%
+- **Weighted Precision:** 94.44%
+- **Weighted Recall:** 94.17%
+- **Weighted F1-Score:** 93.96%
+
+### Top Important Features
+
+1. Employee Environment Satisfaction
+2. Employee Last Salary Hike Percentage
+3. Years Since Last Promotion
 ---
 
 ## Author
