@@ -317,6 +317,13 @@ The project demonstrates practical skills in Python, exploratory data analysis, 
 1. Employee Environment Satisfaction
 2. Employee Last Salary Hike Percentage
 3. Years Since Last Promotion
+
+---
+
+### Confusion Matrix
+
+![Confusion Matrix](confusion-matrix.png)
+
 ---
 
 ## Author
