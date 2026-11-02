@@ -1,4 +1,4 @@
-![Employee Performance Analysis](project-banner.png)
+![Employee Performance Analysis](Employee Performance Analytics Dashboard.png)
 # Employee Performance Analysis & Prediction – INX Future Inc.
 
 ### IABAC Certified Data Scientist (CDS) Capstone Project
