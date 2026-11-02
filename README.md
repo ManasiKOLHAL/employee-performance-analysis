@@ -294,6 +294,11 @@ The project demonstrates practical skills in Python, exploratory data analysis, 
 
 ---
 
+## Model Comparison
+
+![Model Comparison](model-comparison.png)
+---
+
 ## Author
 
 **Manasi Kolhal**  
