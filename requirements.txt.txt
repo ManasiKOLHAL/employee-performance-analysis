@@ -1,0 +1,31 @@
+# Employee Performance Analysis - Dependencies
+
+# Data Analysis
+pandas
+numpy
+scipy
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Statistical Analysis
+statsmodels
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Explainable AI
+shap
+
+# Model Persistence
+joblib
+
+# Excel Dataset Reading (.xls)
+xlrd
+
+# Jupyter Environment
+jupyter
+notebook
+ipykernels
