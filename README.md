@@ -307,6 +307,10 @@ The project demonstrates practical skills in Python, exploratory data analysis, 
 - **Weighted Precision:** 94.44%
 - **Weighted Recall:** 94.17%
 - **Weighted F1-Score:** 93.96%
+- 
+### Feature Importance
+
+![Feature Importance](feature-importance.png)
 
 ### Top Important Features
 
